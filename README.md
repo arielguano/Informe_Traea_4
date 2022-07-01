@@ -77,39 +77,40 @@ un circuito
 
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-14.png)
 
+# CAPIRULO 8
+
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-01.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-02.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-03.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-04.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-05.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-06.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-07.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-08.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-09.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-10.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-11.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-12.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-13.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-14.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-15.png)
 
-![]()
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-16.png)
 
-![]()
 
 # VIDEO
 
