@@ -92,3 +92,11 @@ un circuito
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-21.png)
 
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-22.png)
+
+# VIDEO
+
+# CONCLUSIONES
+
+# BIBLIOGRAFÍA
+
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 226-333).México: Pearson Educación de México, S.A.de C.V.
