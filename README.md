@@ -47,4 +47,48 @@ un circuito
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+# CAPITULO 7
 
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-01.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-02.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-03.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-04.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-05.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-06.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-07.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-08.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-09.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-10.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-11.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-12.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-13.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-14.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-15.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-16.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-17.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-18.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-19.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-20.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-21.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-22.png)
