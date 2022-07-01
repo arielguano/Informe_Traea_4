@@ -77,9 +77,39 @@ un circuito
 
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-14.png)
 
-![](https://github.com/arielguano/Informe_Traea_4/blob/main/DEBER%204%20PDF-15.png)
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/capitulo%208-01.png)
 
+![]()
 
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
 
 # VIDEO
 
