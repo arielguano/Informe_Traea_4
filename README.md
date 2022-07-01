@@ -97,6 +97,16 @@ un circuito
 
 # CONCLUSIONES
 
+Con lo aprendido en esta unidad se determino que:
+
+En un circuito en serie la corriete se matiene y el voltaje se divide.
+
+En un circuito en paralelo la corriente se divide y el voltaje se mantiene constante.
+
+Un divisor de tensión es una configuración de un circuito eléctrico que reparte la tensión de una fuente entre una o más impedancias conectadas en serie.
+
+Un divisor de corriente es una configuración presente en circuitos eléctricos que puede fragmentar la corriente eléctrica de una fuente entre diferentes resistencias.
+
 # BIBLIOGRAFÍA
 
 THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 226-333).México: Pearson Educación de México, S.A.de C.V.
