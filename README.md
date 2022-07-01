@@ -41,3 +41,6 @@ un circuito
 
 # CAPITULO 7
 
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/Mapa%20Concptual%207-8-1.png)
+
+![](https://github.com/arielguano/Informe_Traea_4/blob/main/Mapa%20Concptual%207-8-2.png)
