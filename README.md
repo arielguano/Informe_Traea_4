@@ -125,15 +125,11 @@ https://youtu.be/bk3aC-Gwt3Q
 
 # CONCLUSIONES
 
-Con lo aprendido en esta unidad se determino que:
+-En un circuito se pueden encontrar resistencias en serie y en paralelo y se tienen que analizar  correctamente para encontrar una resistencia equivalente que nos servira despues para los diferentes teoremas
 
-En un circuito en serie la corriete se matiene y el voltaje se divide.
+-Las conversiones de fuente  son de dos tipos, la primera la  conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
 
-En un circuito en paralelo la corriente se divide y el voltaje se mantiene constante.
-
-Un divisor de tensión es una configuración de un circuito eléctrico que reparte la tensión de una fuente entre una o más impedancias conectadas en serie.
-
-Un divisor de corriente es una configuración presente en circuitos eléctricos que puede fragmentar la corriente eléctrica de una fuente entre diferentes resistencias.
+-El teorema de Thevenin y Norton nos ayuda a simplificar un circuito extenso nos sirve para  calcular una resistencia y voltaje equivalente ahi atravez de llegar a sus respectivos circuitos equivalentes  podemos calcular lo que nos pida el theorema de thevenin nos queda en funcion de voltje y el de Norton en funcion de una fuente resistencia.
 
 # BIBLIOGRAFÍA
 
