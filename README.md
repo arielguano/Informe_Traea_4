@@ -120,6 +120,9 @@ un circuito
 
 # VIDEO
 
+https://youtu.be/bk3aC-Gwt3Q
+
+
 # CONCLUSIONES
 
 Con lo aprendido en esta unidad se determino que:
