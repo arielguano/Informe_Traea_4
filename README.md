@@ -37,6 +37,8 @@ un circuito
 
 ◆ Localizar fallas en circuitos
 
+◆ Aplicar los teoremas de Thevenin y Nhorton correctamente para poder cimplificar los circuitos.
+
 # MARCO TEÓRICO (RESUMEN)
 
 # CAPITULO 7
