@@ -51,7 +51,7 @@ un circuito
 
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/8va%20capitulo-2.png)
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # CAPITULO 7
 
