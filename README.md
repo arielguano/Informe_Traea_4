@@ -4,7 +4,7 @@
 
 Fundamentos de Circuitos Electricos
 
-Tarea Nº1
+Tarea Nº4
 
 Alumno: Guano Victor
 
