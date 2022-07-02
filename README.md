@@ -45,6 +45,8 @@ un circuito
 
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/Mapa%20Concptual%207-8-2.png)
 
+# CAPITULO 8
+
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/8va%20capitulo-1.png)
 
 ![](https://github.com/arielguano/Informe_Traea_4/blob/main/8va%20capitulo-2.png)
